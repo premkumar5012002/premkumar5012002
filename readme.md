@@ -1,6 +1,6 @@
 # Hi, I'm Prem Kumar
 
-Hey, welcome to my GitHub readme! I am a full-stack software developer, mainly focusing on creating better reactive web apps, with 'reactive' referring to **React**. Beyond coding, I enjoy delving into computer-related topics and playing games on my computer.
+Hey, welcome to my GitHub readme! I am a full-stack software developer, mainly focusing on creating better reactive web apps, with 'reactive' referring to **React**.
 
 ## 🔗 Links
 
