@@ -1,3 +1,3 @@
 # Hi, I'm Prem Kumar
 
-I make applications for web using **React**.
+I make applications for web.
