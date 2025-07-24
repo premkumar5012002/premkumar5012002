@@ -1,3 +1,1 @@
-# Hi, I'm Prem Kumar
-
-I make applications for web.
+# Hi, I'm Prem Kumar.
